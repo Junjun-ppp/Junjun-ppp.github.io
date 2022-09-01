@@ -4,14 +4,14 @@ body {
 .title {
   color: #3F47BF;
 }
-h2{color: #3F47BF, font-size: 16px;
+h2{color: #3F47BF, font-size: 12px;
 }
 div {
   background: #ffffff;
  
-  padding: 10px;
+  padding: 8px;
   text-align: left;
   border: 1px solid #cccccc;
-  margin: 30px ;
+  margin: 20px ;
 }
 Footer
