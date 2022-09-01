@@ -12,6 +12,9 @@ div {
   padding: 8px;
   text-align: left;
   border: 1px solid #cccccc;
-  margin: 20px ;
+  width:630px;
+  margin: 16px ;
+  margin-left: 80px;
+  margin-right: 80px;
 }
 Footer
