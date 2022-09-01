@@ -1,10 +1,21 @@
 body {
-  background-color: #f5f5f5;
+    margin: 3em 1em 2em 3em;
+    color: black;
+    background-color: #f5f5f5;
 }
 .title {
   color: #3F47BF;
 }
 h2{color: #3F47BF, font-size: 12px;
+}
+h3{color:
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 div {
   background: #ffffff;
