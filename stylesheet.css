@@ -6,4 +6,12 @@ body {
 }
 h2{color: #3F47BF, font-size: 16px;
 }
+div {
+  background: #ffffff;
+  width: 300px;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #cccccc;
+  margin: 30px auto;
+}
 Footer
